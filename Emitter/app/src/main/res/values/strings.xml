@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Emitter</string>
+
+    <string name="action_send_user">com.elhady.middleman.SEND_USER_ACTION</string>
+    <string name="middle_app_pkg">com.elhady.middleman</string>
+    <string name="middle_app_receiver_name">com.elhady.middleman.UserReceiver</string>
+
+    <string name="btn_send">Send</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+
+    <string name="message_send_user">Send %1$s to MiddleMan application</string>
+
+</resources>
